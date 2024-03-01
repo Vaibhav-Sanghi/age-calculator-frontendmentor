@@ -2,13 +2,13 @@
 
 ## Overview
 
-<!-- ### Screenshot
+### Screenshot
 
 ![](./images/screenshot.png)
 
 ### Links
 
-- Live Site URL: [here](https://vaibhav-sanghi.github.io/faq-accordion-frontendmentor/) -->
+- Live Site URL: [here](https://vaibhav-sanghi.github.io/age-calculator-frontendmentor/)
 
 ### Built with
 
@@ -20,4 +20,3 @@
 ## Author
 
 - Frontend Mentor - [@Vaibhav Sanghi](https://github.com/Vaibhav-Sanghi)
-"# age-calculator-frontendmentor" 
